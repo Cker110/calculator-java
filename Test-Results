@@ -1,12 +1,12 @@
 	Test Description	          input		  Expected result		  Output result
-1. Testing positive number	    8		          8			              8
-2. Testing Negative number	   -18		        -18			            -18
-3. Testing Summation		        5+5		         10			             10
-4. Subtraction		            	10-5		       5		             	5
-5. Multiplication		            5*5		          25	           	 	25
-6. Division			                25/5		        5			            5
+1. Testing positive number	            8		          8			         8
+2. Testing Negative number	           -18		        -18			        -18
+3. Testing Summation		           5+5		         10			         10
+4. Subtraction		            	   10-5		         5		             	  5
+5. Multiplication		            5*5		          25	           	 	  25
+6. Division			            25/5		  5			          5
 7. Testing Subtraction
-   of negatives and		          -5-5		        -10			          -10
+   of negatives and		           -5-5		        -10			         -10
    positives	
 8. Multiplication
-   and division		             	5*5/5		         5			          5
+   and division		             	   5*5/5		  5			          5
